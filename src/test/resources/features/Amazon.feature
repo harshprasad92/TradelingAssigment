@@ -3,7 +3,7 @@ Feature: Automation assignment test scenarios
   Background: 
     Given i am on Amazon.com store app home page
 
-  
+  @Regression
   Scenario: Check the total displayed number of results for category Smart Home | Televisions
     And Click on Shop by Department from burger menu
     And Choose category "Electronics"
@@ -11,7 +11,7 @@ Feature: Automation assignment test scenarios
     And Filter with ’Smart TV’ and click show results
     Then Check the total number of results match the total displayed in filter
 
-  
+  @Regression
   Scenario: Check the selected currency displayed for the products price
     When User changes currency to AED from USD from currency setting
     Then Selected currency should be displayed for Deals and Promotions products
