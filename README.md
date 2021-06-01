@@ -1,5 +1,5 @@
 # TradelingAssignment
-Pre requisits to have to execute the project on any machine/server
+Pre requisits to execute the project on any machine/server
 1. Execution Machine/Server should have JRE 1.7 or greater
 2. Execution Machine/Server should have maven
 3. Execution Machine/Server should have node installed. Guide to install node.js: https://nodejs.org/en/download/package-manager/
