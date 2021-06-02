@@ -20,3 +20,4 @@
 
 # Documents
 1. Bugs are reported under file 'pathToProjectRootFolder/TradelingAssigment/src/test/resources/testDocuments/Amazon_tradelingAssigment_bugs.docx'
+2. To view a sample execution report download folder 'pathToProjectRootFolder/TradelingAssigment/src/test/resources/testDocuments/TestExecutionReport'. And view paste the url 'pathTofolder/TradelingAssigment/src/test/resources/testDocuments/TestExecutionReport/report.html'
